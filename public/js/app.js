@@ -1956,6 +1956,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
@@ -80088,7 +80089,7 @@ var render = function() {
             [
               _c(
                 "b-col",
-                { attrs: { cols: "5" } },
+                { attrs: { md: "5" } },
                 [
                   _c("b-card", { staticClass: "p-3" }, [_c("index_intrant")], 1)
                 ],

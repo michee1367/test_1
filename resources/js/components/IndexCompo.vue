@@ -34,7 +34,8 @@
 
         <b-container>
             <b-row align-h="center" class="mt-5">
-                <b-col cols="5">
+                
+                <b-col md="5">
                     <b-card class="p-3">
                         <index_intrant>
                         </index_intrant>
